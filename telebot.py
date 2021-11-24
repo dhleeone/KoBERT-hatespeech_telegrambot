@@ -13,10 +13,10 @@ def get_message(update, context):
   s_m = slangword.slang(update.message.text)
   p_m = purify.purifier(update.message.text)
 
-  if len(s_m)>0 or len(p_m)>0:
-    bot = telegram.Bot(TELEGRAM_TOKEN)
-    id = update.message.chat_id
-    bot.send_photo(chat_id=id, photo=open("robot.png", 'rb'))
+  # if len(s_m)>0 or len(p_m)>0:
+  #   bot = telegram.Bot(TELEGRAM_TOKEN)
+  #   id = update.message.chat_id
+  #   bot.send_photo(chat_id=id, photo=open("robot.png", 'rb'))
     
   update.message.reply_text("{0} {1} \n{2}".format(s_m, g_m, p_m))
 
