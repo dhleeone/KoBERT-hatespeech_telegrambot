@@ -25,4 +25,4 @@
 * pip install openpyxl
 
 ## 서비스 시연
-![telebot](https://user-images.githubusercontent.com/78197111/140931189-b417b654-0d09-47d8-a414-07d76f2556b7.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/78197111/144001771-26f81da4-b83d-4323-9c33-41e5da71f2b3.gif)
