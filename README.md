@@ -6,7 +6,7 @@
 * KoBERT를 활용한 혐오표현 탐지 및 욕설 마스킹/순화 표현 추천 기능을 갖춘 텔레그램 봇 구현
 
 ## 프로젝트 일정
-* Notion link: https://bit.ly/3ESgTEI
+* Notion link: https://bit.ly/3pmcR2A
 
 ## 개발 환경
 * google colaboratory
